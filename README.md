@@ -1,2 +1,1 @@
-# PhilosophyOfMath
-UC Davis PHI 131
+notes/Realism.md
