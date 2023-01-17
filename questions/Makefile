@@ -2,8 +2,8 @@ CC = pdflatex
 
 all: answer
 
-answer:
-	$(CC) $(problem).tex
+%:
+	$(CC) $@.tex
 
 clean:
 	rm *.aux *.*latex* *.fls *.log
