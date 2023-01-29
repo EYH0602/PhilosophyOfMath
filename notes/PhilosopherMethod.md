@@ -46,6 +46,7 @@ For Plato, the only to have knowledge is to have stable object.
 $$
 H \implies \cdots \implies C
 $$
+use $C$ to solve problem.
 
 **mathematicians** only need stable definition.
 Hypothesis are conjectures
@@ -58,11 +59,12 @@ which is very different from the dialectical method, which
 
 $$
 \begin{aligned}
-& FP \implies \cdots \implies C \\
+& FP \text{ (Form) } \implies \cdots \implies C \\
 & \Uparrow \\
 & H
 \end{aligned}
 $$
+$C$ used to justify your true opinion
 
 **philosophers** need stable objects.
 
@@ -109,4 +111,4 @@ $$
 
 * arithmetic theory of proportion: $a, b, c \in \mathbb{N}$
 * geometrical theory of proportion: $a, b, c$ are geometric measures
-  * include irrational length
+  + include irrational length
