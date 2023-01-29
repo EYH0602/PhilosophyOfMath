@@ -6,4 +6,4 @@ all: answer
 	$(CC) $@.tex
 
 clean:
-	rm *.aux *.*latex* *.fls *.log
+	rm *.aux *.*latex* *.fls *.log *.xdv
