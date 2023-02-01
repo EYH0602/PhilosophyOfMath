@@ -9,11 +9,11 @@ also called **Platonism**.
 
 $\implies$ *As-ifism*
 
-* Plo: Epistemic Access
+* Pb: Epistemic Access
 
 ## Non-Realism
 
-* Plo: reference $\implies$ No uniform semantic
+* Pb: reference $\implies$ No uniform semantic
   + in Non-Realism, we don't have "(.*)" refers to (.*)
 
 > "the ball is red" is true $\iff$ "ball" refers to ball and ball satisfies the predicate "red"
