@@ -14,7 +14,7 @@ $$
   * a posteriori: get added by experience
 * All bachelors are unmarried man
   * analytic: predicate is contained in the subject
-  * a priori: after experience by reason
+  * a priori: before experience by reason
 
 Although all knowledge begins with experience,
 it does not follow that all knowledge arises from experience.
