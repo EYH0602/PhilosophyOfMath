@@ -40,6 +40,6 @@ consistency of axioms $\rightarrow$ truth $\rightarrow$ existence
 
 * whatever satisfies the axioms
 * point, line, plane are implicitly defined
-  * they mean whatever the axioms says then mean
+  * they mean whatever the axioms says they mean
 * axioms are schema for concepts
 * variable domains, no fixed meaning *semantic notion*
