@@ -44,7 +44,7 @@ A structure specified by the axioms.
 2. For every $n$, $S(n) \in \mathbb{N}$
 3. for $m, n$, $S(m) = S(n) \implies m = n$
 4. For any $n$, $S(n) = x$ is false
-5. (_Induction Axioms_) If $S$ is a set such that $0 \in S$ and for every $n$,
+5. (_Induction Axioms_) If $S$ is a set such that $x \in S$ and for every $n$,
    $n \in S \implies S(n) \in S$, then $S$ contains every natural numbers.
 
 theory is _categorical_:
@@ -56,7 +56,7 @@ From Hilbert, Numbers is whatever satisfies the Piano Axioms.
 Dedekind: "What Numbers should be".
 
 * system is whatever satisfies the axioms
-  + a set of objects that satisfies the relationships as said out in the axios
+  + a set of objects that satisfies the relationships as said out in the axioms
 * question: how do we know such a system is possible
   + example: my thought, the thought of my thought, ...
 
