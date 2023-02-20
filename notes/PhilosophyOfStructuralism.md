@@ -21,3 +21,57 @@ But,
    1. ontological sense
    2. semantic sense
    3. **methodological sense**
+
+* *Object-level* conditions for speaking about *objects* are found in our axiomatic theory
+  * numbers, groups, sets, etc
+
+## Priority Question
+
+3 senses of priority
+
+1. ontological sense
+  * structures are ontologically prior to objects
+  * Shapiro - ante rem
+2. semantic sense
+  * *systems that have a structure* are semantically prior to objects
+  * Hellman - in re
+3. methodological sense
+  * system that have a structure are methodologically prior to object
+  * Reck's interpretation of Dedekind - in re
+
+* ante rem: before the thing, Platonism (rationalism)
+* in re: in the thing, Aristotle (empiricist)
+
+"The rose is red"
+* in re: redness is in the rose, we come to know red by individuals of roses. 
+  * universal in the particular
+  * there are only particulars
+* ante rem: the rose is red because it exemplifies/instantiates Redness. 
+  * universal over and above the particular
+  * Types over above tokens
+
+Q. *meta-level* conditions for speaking about structure or systems?
+
+* Shapiro: actual abstract structures
+  * $\{\mathbb{1}, \mathbb{2}, \mathbb{3}, \mathbb{4}, \ldots\}$ be places in all systems satisfy $P^2A$
+  * the concept of Red is the abstraction of collection of all possible things that are red
+* Hellman: *possible* concrete system
+  * modal logic -> possibility
+  * possible world semantics -> concrete systems
+  * possible concreta
+  * how can we give meaning to the claim that such systems are possible?
+
+## As-ifism
+
+* we act as if our axioms are true and this allows us to make methodological use of objects for the purpose of solving problems
+* we use category theory as a background language to talk about systems that have a structure.
+
+* axioms -> structure -> objects
+* Hilbert: consistency -> truth -> exist - object level
+* Frege: existence -> truth -> consistency - meta level
+
+for Shapiro and Hellman,
+background theories are taken to give
+* actual structure - realism
+* possible system - nominalist
+
