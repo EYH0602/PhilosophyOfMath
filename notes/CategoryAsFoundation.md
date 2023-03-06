@@ -1,7 +1,7 @@
 # Category Theory
 
 1. Take CT as a Hilbertian framework/schema for talking about mathematical objects
-   1. EM: A category is a *two sorted system* of objects and arrows such that thw axioms are satisfied
+   1. EM: A category is a *two sorted system* of objects and arrows such that the axioms are satisfied
    2. ETCS: A category is a two sorted system with sets as 'object' and functions as 'arrow'
    3. CCAF: A category is a two sorted system with categories as 'objects' and functors as 'arrows' ($Cat$). -> meta-language that allows you to talk about category itself. 
 
